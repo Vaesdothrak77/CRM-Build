@@ -1,0 +1,1 @@
+export const serverPath = 'https://pickle-abounding-operation.glitch.me/'
